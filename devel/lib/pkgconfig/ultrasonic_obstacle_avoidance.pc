@@ -1,0 +1,8 @@
+prefix=/home/yadajin/stdr_ws/devel
+
+Name: ultrasonic_obstacle_avoidance
+Description: Description of ultrasonic_obstacle_avoidance
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
